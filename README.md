@@ -1,1 +1,2 @@
-# data-6-website
+## Data 6 Website
+Designed by Aditya Tomar

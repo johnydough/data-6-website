@@ -1,5 +1,4 @@
 ## Data 6 Website
 
-<img src="Oski_L.jpeg">
+[<img src="snapchat.png">](https://github.com/RoastSea8/Snapchat-Streak-Revival)
 
-[//]: <[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)>
